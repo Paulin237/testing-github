@@ -1,0 +1,21 @@
+html{
+    font-size: 1rem;
+}
+h3{
+    color: aqua;
+}
+h1{
+    color: tomato;
+    text-align: center;
+    border: 2px dashed royalblue;
+    width: 100%;
+    box-sizing: border-box;
+}
+#title{
+    text-align: center;
+}
+.text{
+    text-rendering: geometricPrecision;
+    text-justify: distribute;
+    text-decoration: underline;
+}
